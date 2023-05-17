@@ -13,6 +13,7 @@ matplotlib = "*"
 six = "*"
 graphviz = "*"
 pydotplus = "*"
+opendatasets = "*"
 
 [dev-packages]
 
